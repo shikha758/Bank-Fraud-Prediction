@@ -1,13 +1,12 @@
 # Bank Fraud Detection Using Machine Learning | End-to-End Data Science Interview Project | Python
 
-![SQL_Thumbnail](https://github.com/user-attachments/assets/6e85eb86-03b2-40f9-8f44-931b22c0c70b)
+
 
 Learn how to build a **Bank Fraud Detection Project** using Machine Learning in Python! 🚀  
 In this full end-to-end tutorial, we solve a real-world financial fraud problem and show how ML models can help banks detect suspicious transactions and prevent monetary loss.
 
 This Fraud Detection Machine Learning Project is perfect for data science, AI, and ML enthusiasts who want to build a strong portfolio project and learn how fraud analytics works in real banking systems — especially useful for **data science interview assignments**.
 
-📺 **YouTube Link:** [Watch the Tutorial](https://youtu.be/7lPNOP4dFN0?si=1J7DSQBrMAbXkoTD)
 
 ---
 
